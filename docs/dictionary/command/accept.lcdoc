@@ -4,11 +4,11 @@ Type: command
 
 Syntax: accept [datagram] connections on port <portNumber> with message <callbackMessage> 
 
-Summary: Accepts an internet connection and creates a <socket> for that connection.
+Summary: Accepts an internet connection and credfgfgdfates a <socket> for that connection.
 
 Introduced: 1.0
 
-OS: mac,windows,linux,iOS,android
+OS: mac,windows,linux,iOS,androidf
 
 Platforms: desktop,server,web,mobile
 
