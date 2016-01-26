@@ -12,7 +12,7 @@ OS: mac,windows,linux,iOS,android
 
 Platforms: desktop,server,web,mobile
 
-Security: network
+Security: networkf
 
 Example:
 accept connections on port 80 with message "connectionMade"
